@@ -1,5 +1,5 @@
 #include<stdio.h>
 
 void main(void){
-printf"("olão");
+printf("Alteracao do arquivo da doidera")
 }
